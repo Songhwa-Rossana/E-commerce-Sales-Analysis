@@ -69,7 +69,6 @@ ecommerce-sales-analysis/
 │
 ├── README.md                          # Project documentation (you're here!)
 ├── analysis. ipynb                     # Main analysis notebook with visualizations
-├── executive_summary.md               # Business-focused insights
 ├── sql_queries.sql                    # SQL queries for data extraction
 ├── requirements.txt                   # Python dependencies
 ├── .gitignore                        # Git ignore rules
@@ -80,8 +79,7 @@ ecommerce-sales-analysis/
 │
 └── visualizations/                    # (Generated during analysis)
     ├── revenue_by_category.png
-    ├── monthly_trends.png
-    └── ... 
+    └── monthly_trends.png
 ```
 
 ## 🚀 How to Run This Project
