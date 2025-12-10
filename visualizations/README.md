@@ -80,5 +80,3 @@ Direct comparison of best and worst performers.
 Shows relationships between key business metrics.
 
 ![Correlation Matrix](correlation_matrix.png)
-
----
